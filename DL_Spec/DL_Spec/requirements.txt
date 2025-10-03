@@ -1,0 +1,4 @@
+# Minimal dependencies for CPU-only runs
+# PyTorch CPU; adjust version if needed
+torch>=2.3.0,<3.0
+pytest>=7.4
